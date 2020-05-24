@@ -130,7 +130,7 @@ hr {
 .home-page-banner{
 	padding: 70px 0px;
 	background-color: #ddd;
-	background-image: url(/img/banner/home-page.jpg);
+	background-image: url(../img/banner/home-page.jpg);
 	background-size: cover;
 	background-position: center;
 }
