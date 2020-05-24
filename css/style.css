@@ -12,6 +12,7 @@
 	font-family: "Poppins", sans-serif;
 	font-weight: normal;
 	font-style: normal;
+	background-color: #f2f2f2;
 }
 .img {
 	max-width: 100%;
@@ -156,3 +157,62 @@ hr {
 .single-color-code h6 {
     font-size: 15px;
 }
+/* footer */
+.footer{
+	padding: 70px 0;
+	background-color: #212F3D;
+}
+.footer a.socialbox {
+	font-family: "Open Sans";
+	font-weight: 300;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	width: 100%;
+	padding: 15px;
+  }
+  
+  .footer a.socialbox.facebook {
+	background-color: #2980b9;
+	-webkit-transition: background-color 0.25s ease-in-out;
+	transition: background-color 0.25s ease-in-out;
+  }
+  .footer a.socialbox.twitter {
+	background-color: #3498db;
+	-webkit-transition: background-color 0.25s ease-in-out;
+	transition: background-color 0.25s ease-in-out;
+  }
+  .footer a.socialbox.pinterest {
+	background-color: #c0392b;
+	-webkit-transition: background-color 0.25s ease-in-out;
+	transition: background-color 0.25s ease-in-out;
+  }
+  .footer a.socialbox.linkedin {
+	background-color: #34495e;
+	-webkit-transition: background-color 0.25s ease-in-out;
+	transition: background-color 0.25s ease-in-out;
+  }
+  
+  .footer a.socialbox .social-icon {
+	line-height: 32px;
+	font-size: 30px;
+	display: inline-block;
+	vertical-align: middle;
+	border-right: 1px solid rgba(255, 255, 255, 0.25);
+	padding-right: 15px;
+  }
+  .footer a.socialbox .description {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 10px;
+	font-size: 13px;
+  }
+  
+  .footer a.socialbox .description span {
+	display: block;
+	line-height: 16px;
+  }
+  .copyright-content{
+	  margin: 0 auto;
+	  text-align: center;
+  }
