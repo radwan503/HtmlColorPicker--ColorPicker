@@ -122,67 +122,7 @@ hr {
 
 /* button style */
 
-.btn {
-	-moz-user-select: none;
-	background: #1696e7 none repeat scroll 0 0;
-	border: medium none;
-	border-radius: 2px;
-	color: #fff;
-	cursor: pointer;
-	display: inline-block;
-	font-size: 13px;
-	font-weight: 600;
-	letter-spacing: 1px;
-	line-height: 1;
-	margin-bottom: 0;
-	padding: 13px 25px;
-	text-align: center;
-	text-transform: uppercase;
-	touch-action: manipulation;
-	transition: all 0.3s ease 0s;
-	vertical-align: middle;
-	white-space: nowrap;
-}
-.btn.btn-black {
-	background: #303b41;
-}
-.btn.btn-black:hover {
-	background: #1a1a1a;
-}
-.btn:hover {
-	background: #106fab;
-	color: #fff
-}
-.btn.btn-large {
-	padding: 10px 25px;
-}
-.btn-lg {
-	font-weight: 700;
-	padding: 13px 31px;
-}
-.btn.white-btn:hover {
-	border-color: #ddd;
-	color: #ddd
-}
-.btn.btn-base.btn-link {
-	background: transparent none repeat scroll 0 0;
-	border: 0 none;
-	color: #1696e7;
-	padding: 0;
-	text-decoration: none;
-}
-.btn.btn-base.btn-link:hover {
-	color: #106fab;
-}
-.theme-bg {
-	background: #1696e7
-}
-.bg-white {
-	background-color: #ffffff;
-}
-.breadcrumb > .active {
-	color: #888;
-}
+
 
 
 
@@ -203,4 +143,22 @@ hr {
     font-weight: 600;
     letter-spacing: 0px;
     margin: 0px auto 25px;
+}
+.single-color-code {
+    background-color: #ccc;
+    margin: 18px 0px;
+	border-radius: 5px;
+	height: 100px;
+	padding: 28px;
+	
+    
+}
+.color-code-chart {
+    background-color: azure;
+    padding: 30px;
+    margin-top: -75px;
+    border-radius: 5px;
+}
+.single-color-code h6 {
+    font-size: 15px;
 }
