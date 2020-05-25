@@ -3,7 +3,7 @@
 
 # htmlcolorpicker
 
-htmlcolorpicker is a easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.
+htmlcolorpicker is a easy to use tool to get the color codes information including color models (RGB,Gradient), css and html color codes.
 
 ## Built With
 
@@ -28,5 +28,6 @@ version 1.0
 
 This project is licensed free.
 
-## Acknowledgments
+## Live Demo
+https://radwan503.github.io/htmlcolorpicker/
 
